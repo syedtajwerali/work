@@ -1,0 +1,60 @@
+ul li{ 
+    display: inline-block;
+    padding:auto;
+    margin:2px;
+    
+}
+
+#raw{
+    background-color: springgreen;
+}
+
+ .black{
+    display: inline-block;
+     background-color: rgba(231, 229, 219, 0.473);
+     width: 200px;
+     height: 150px;
+    margin: auto;
+    margin-top: 40px;
+    
+
+   
+    
+ }
+
+
+ .white{ display: inline-block;
+    background-color:rgba(231, 229, 219, 0.473);
+    width: 200px;
+    height: 150px;
+   margin: auto;
+   display: inline-block;
+   
+    
+}
+
+
+.shirt{
+    background-color:gray;
+    height: 50px;
+
+    display: inline-block;
+    width: 200px}
+
+
+.coat{
+    background-color:gray;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    }
+
+
+
+          .qwe{
+              position: absolute;
+             top: 90px;
+             left: 60px;
+          }    
+
+        
